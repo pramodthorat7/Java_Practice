@@ -1,5 +1,17 @@
 package ArrayADT;
 
+// In case of the package classes to run in Vscode follow these steps:
+/*
+        1.But because your files are part of package ArrayADT, you should compile and run them from one directory ABOVE
+            
+            Complile with folder or each one file => javac ArrayADT\ArrayADT.java ArrayADT\ArrayOps.java
+
+            just compile everything: => javac ArrayADT\*.java
+
+        2. 3: Run using the fully qualified class name : => java ArrayADT.ArrayOps
+   
+ */
+
 public class ArrayADT {
 
     // Array :=> To Store a data
@@ -88,5 +100,6 @@ public class ArrayADT {
     public int getsize() {
         return this.index;
     }
+    
 
 }
