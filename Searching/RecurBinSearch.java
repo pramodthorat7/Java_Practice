@@ -1,3 +1,4 @@
+package Searching;
 import java.util.Scanner;
 
 public record RecurBinSearch() {
