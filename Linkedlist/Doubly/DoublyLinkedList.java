@@ -87,14 +87,14 @@ public class DoublyLinkedList {
 
     // Display Forward
 
-    // public void displayForward() {
-    //     Node current = head;
-    //     while (current != null) {
-    //         System.out.print(current.data + " ");
-    //         current = current.next;
-    //     }
-    //     System.out.println();
-    // }
+    public void displayForward() {
+        Node current = head;
+        while (current != null) {
+            System.out.print(current.data + " ");
+            current = current.next;
+        }
+        System.out.println();
+    }
 
 }
 
