@@ -74,7 +74,7 @@ public class DoublyLinkedList {
     // }
 
     
-    // Display Backword 
+    // Display Backward 
 
     // public void displayBackward() {
     //     Node current = tail;
