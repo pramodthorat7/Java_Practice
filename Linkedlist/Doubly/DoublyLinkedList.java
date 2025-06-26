@@ -1,4 +1,4 @@
-package Linkedlist.Doubly;
+package Doubly;
 
 public class DoublyLinkedList {
 

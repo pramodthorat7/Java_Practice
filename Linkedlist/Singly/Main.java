@@ -1,4 +1,4 @@
-package Linkedlist;
+package Singly;
 
 import java.util.*;
 
