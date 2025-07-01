@@ -33,5 +33,11 @@ public class balancedParanthesis {
     public static void main(String[] args) {
         
         System.out.println(isBalanced("((1{3[]47})9)"));
+
+        // String reve = "Samadhan";
+        // System.out.println(reve.length());;
+        // for (int i = 7; i >= 0; i--) {
+        //     System.out.print(reve.charAt(i)+" ");
+        // }
     }
 }
