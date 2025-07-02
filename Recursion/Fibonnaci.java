@@ -10,7 +10,7 @@ public class Fibonnaci {
         if (n == 1)
             return 1;
         else {
-            return fibbo(n - 1) + fibbo(n - 2);
+            return fibbo(n - 1) + fibbo(n - 2);   // Two recursion function will be performend for each one
         }
     }
 
