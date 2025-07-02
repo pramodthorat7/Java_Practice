@@ -14,6 +14,7 @@ public class SumofArray {
     public static void main(String[] args) {
 
         int arr [] = {1,2,3,4,5};
-        System.out.println(sumArray(arr, arr.length));
+        // System.out.println(sumArray(arr, arr.length));
+        System.out.println(sumArray(arr,arr.length));
     }
 }
